@@ -1,2 +1,2 @@
 # basic-ts
-Basica TS project with linting set-up
+Just a basic TypeScript project.
