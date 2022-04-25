@@ -1,8 +1,7 @@
 {
-    "author": "Adrian Popescu",
-    "name": "akt",
+	"name": "@cry0nics/basic-ts",
     "version": "1.0.0",
-    "description": "",
+    "description": "Just a basic TypeScript project",
     "main": "index.js",
     "scripts": {
         "format-check": "prettier --check \"*.{js,json}\"",
