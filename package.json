@@ -11,7 +11,7 @@
         "spell-check": "cspell --no-progress"
     },
     "keywords": [],
-    "license": "ISC",
+    "license": "GPL-2.0 License",
     "devDependencies": {
         "@commitlint/cli": "^16.2.3",
         "@commitlint/config-conventional": "^16.2.1",
@@ -38,5 +38,6 @@
     "simple-git-hooks": {
         "commit-msg": "npx commitlint --edit \"$1\"",
         "pre-commit": "npx lint-staged"
-    }
+    },
+    "prettier": "@glen-84/prettier-config"
 }
